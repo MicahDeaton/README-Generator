@@ -1,8 +1,8 @@
 
-# SAMPLE
+# README Generator
 
 ## Description
-SAMPLE
+This program was made to help developers write out README files quicker and easier.
 
 ## Table of Contents
 - [Installation](#installation)
@@ -12,24 +12,23 @@ SAMPLE
 - [Tests](#tests)
 - [Questions](#questions)
 
+## Location
+https://github.com/MicahDeaton/README-Generator
+
 ## Installation
-SAMPLE
+To install, simply clone this repo and open it in your terminal.
 
 ## Usage
-SAMPLE
-
-## License
-This project is covered under the None license.
+To use this program, while in your terminal, type "node index.js" and answer the prompts shown.
 
 ## Contributing
-SAMPLE
-
-## Tests
-SAMPLE
+Micah Deaton
 
 ## Questions
 For additional questions, you can reach me through:
 
-- [GitHub](https://github.com/SAMPLE)
-- Email: SAMPLE
+- [GitHub](https://github.com/MicahDeaton@github.com)
+- Email: Micah.deaton444@gmail.com
+  
+ Micah.deaton444@gmail.com
   
