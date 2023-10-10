@@ -12,6 +12,9 @@ This program was made to help developers write out README files quicker and easi
 - [Tests](#tests)
 - [Questions](#questions)
 
+## Location
+https://github.com/MicahDeaton/README-Generator
+
 ## Installation
 To install, simply clone this repo and open it in your terminal.
 
